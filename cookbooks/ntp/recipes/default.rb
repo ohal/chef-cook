@@ -6,7 +6,6 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-
 package 'ntp'
 
 template '/etc/ntp.conf' do
